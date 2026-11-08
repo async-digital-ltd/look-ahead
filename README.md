@@ -1,6 +1,6 @@
 # LookAhead
 
-[![Licence: MIT](https://img.shields.io/badge/Licence-MIT-blue.svg)](LICENSE)
+[![Swift Versions](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fasync-digital-ltd%2Flook-ahead%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/async-digital-ltd/look-ahead) [![Platforms](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fasync-digital-ltd%2Flook-ahead%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/async-digital-ltd/look-ahead) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-blue.svg)](LICENSE)
 
 [Darllen yn Gymraeg](README.cy.md)
 

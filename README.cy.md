@@ -1,6 +1,6 @@
 # LookAhead
 
-[![Trwydded: MIT](https://img.shields.io/badge/Trwydded-MIT-blue.svg)](LICENSE)
+[![Fersiynau Swift](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fasync-digital-ltd%2Flook-ahead%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/async-digital-ltd/look-ahead) [![Platfformau](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fasync-digital-ltd%2Flook-ahead%2Fbadge%3Ftype%3Dplatforms&label=Platfformau)](https://swiftpackageindex.com/async-digital-ltd/look-ahead) [![Trwydded: MIT](https://img.shields.io/badge/Trwydded-MIT-blue.svg)](LICENSE)
 
 [Read in English](README.md)
 
